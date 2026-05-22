@@ -1,13 +1,13 @@
 # What is an "AsyncMachine"?
 
 Just a Computer. And yes, it is possible not even to understand how a Computer works, but also how to construct another one. And it is not only possible to synthesize logic and flash it onto an FPGA, but also to build a physical one.
-And no, you dont need Millions to engage a Foundry in that. You can in fact assemble a working computer at home. Thousands of People have done and some of them you can read about at https://www.homebrewcpuring.org/. The mostly recommended and straight forward approach is to build one of "TTL-Logic". Have a look at Ben Eater (https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU).
+And no, you dont need Millions to engage a Foundry in that. You can in fact assemble a working computer at home. Thousands of People have done so and some of them you can read about at https://www.homebrewcpuring.org/. The mostly recommended and straight forward approach is to build one of "TTL-Logic". Have a look at Ben Eater (https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU).
 
-But somehow this was never enough for me. I needed hard mode. Why build just a "working" Computer, if you can build an "awesome" Computer. Something like a new Computing Paradigm... And this is it.
+But somehow this was never enough for me. I needed "hard mode". Why build just a "working" Computer, if you can build an "awesome" Computer. Something like a new Computing Paradigm... And this is it.
 Currently there are some sketches of this computer in this repo. The Goal it to build the real thing. But it is far from finish. 
 
 Nevertheless I will tell you about this machine. It has two uses:
-1) To be a Project to learn Computer Architecture beyond the point most lectures end (have a look at https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8tTLVb-9CUHcfKXLWESjOD, i would seriously reccomend it if you have interest in this topic.
+1) To be a Project to learn Computer Architecture beyond the point most lectures end (have a look at https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8tTLVb-9CUHcfKXLWESjOD, I would seriously reccomend it if you have interest in this topic.
 2) Be a Proof of Concept of an actually new Paradigm
 
 Some Facts about the Computer:
