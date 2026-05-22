@@ -7,7 +7,7 @@ But somehow this was never enough for me. I needed "hard mode". Why build just a
 Currently there are some sketches of this computer in this repo. The Goal it to build the real thing. But it is far from finish. 
 
 Nevertheless I will tell you about this machine. It has two uses:
-1) To be a Project to learn Computer Architecture beyond the point most lectures end (have a look at https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8tTLVb-9CUHcfKXLWESjOD, I would seriously reccomend it if you have interest in this topic.
+1) To be a Project to learn Computer Architecture beyond the point most lectures end (have a look at https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8tTLVb-9CUHcfKXLWESjOD - I would seriously recommend it if you have interest in this topic).
 2) Be a Proof of Concept of an actually new Paradigm
 
 Some Facts about the Computer:
