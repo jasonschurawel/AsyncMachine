@@ -1,4 +1,4 @@
-# What is a "AsyncMachine"?
+# What is an "AsyncMachine"?
 
 Just a Computer. And yes, it is possible not even to understand how a Computer works, but also how to construct another one. And it is not only possible to synthesize logic and flash it onto an FPGA, but also to build a physical one.
 And no, you dont need Millions to engage a Foundry in that. You can in fact assemble a working computer at home. Thousands of People have done and some of them you can read about at https://www.homebrewcpuring.org/. The mostly recommended and straight forward approach is to build one of "TTL-Logic". Have a look at Ben Eater (https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU).
