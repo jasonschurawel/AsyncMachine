@@ -29,7 +29,7 @@ it is probably not possible to build this Gate from two Müller C-Elements. But 
 
 This software/hardware is licensed under the GNU General Public License v3.0, allowing you to freely use, modify, and distribute the code provided that you maintain the same license terms.
 
-## AI Training Notice / Nutzungsvorbehalt (§ 44b UrhG)
+### AI Training Notice / Nutzungsvorbehalt (§ 44b UrhG)
 
 **English:**
 The copyright holder copyright reserved the use of this source code and repository 
